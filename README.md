@@ -22,9 +22,6 @@ So I decided to focus on building my career as a software developer and so far m
   <img alt="Next JS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="22" />
   <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" height="22" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" height="22" />
-  <img alt="Apollo GraphQL" src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql" height="22" />
-  <img alt="styled-components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" height="22"/>
-  <img alt="Tailwindcss" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" height="22" />
 </p>
 
 Besides this I have learned how to have the discipline not to give up when things get complicated (and of course I have learned how to test my own code). Certainly I still have a lot more to learn, a lot more problems to solve, a lot more to develop and this is what makes me love coding.💓
