@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 
 
 I'm Kellyn, a developer and a classic millennial: curious, connected, multidisciplinary, worried about my impact on the world, always wanting more and better and who drinks a lot of coffee. ☕
 
@@ -26,6 +26,12 @@ So I decided to focus on building my career as a software developer and so far m
 
 Besides this I have learned how to have the discipline not to give up when things get complicated (and of course I have learned how to test my own code). Certainly I still have a lot more to learn, a lot more problems to solve, a lot more to develop and this is what makes me love coding.💓
 
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?   hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=kellynvd" height="150" alt="stats graph"  />
+</div>
+
+#### Connect with me
 
 <a href="https://linkedin.com/in/kellynvd" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"
