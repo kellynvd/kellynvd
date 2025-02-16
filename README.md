@@ -1,16 +1,18 @@
-### Hi there 👋 
+### Hi there 👋  I’m Kellyn
 
-Hi, I'm Kellyn, a software developer, curious, connected, multidisciplinary, worried about my impact on the world and always looking to improve.
+I’m a software developer passionate about technology, continuous learning, curious and multidisciplinary, I’m always striving to evolve and build meaningful solutions.
 
-My professional journey began in Pedagogy, where I learned the importance of education and continuous improvement. In 2015, I embraced the world of technology and have never looked back. My goal is to build technology with purpose. I'm looking for challenging opportunities where I can positively impact the world, whether it's leading products or coding complex solutions. 💓
+My journey began in Education, where I learned the value of learning and growth. In 2015, I transitioned into tech and never looked back. Since then, I’ve worked as a Product Manager, Front-End Developer, and now as a Full Stack Developer, combining strategy and code to build impactful, scalable products.
 
- Professional Career:
+## 💼 Professional Experience
 
- **Product Management**: I started my tech career as a Product Manager, immersing myself in strategy, interdisciplinary collaboration and building products that make a difference.
+- **Product Management:** Started my career managing products, aligning strategy, collaboration, and impact.  
+- **Front-End Development:** Deepened my knowledge in front-end development, crafting engaging and functional interfaces.  
+- **Full Stack Development:** Now, I integrate front and back-end technologies to develop scalable and innovative solutions.  
 
- **Front-End**: In search of more knowledge, I went deeper into front-end development, transforming designs into engaging and intuitive experiences.
+## 🛠 Skills
 
- **Full Stack Developer**: I'm currently making my way as a Full Stack Developer, integrating technologies to create robust and innovative solutions.
+**JavaScript | React | Node.js | TypeScript | Ruby on Rails | Agile | Project Management | Cross-functional Collaboration**
 
 So far my skills include:
 
